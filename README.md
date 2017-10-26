@@ -1,6 +1,6 @@
 # Distill Template [![Build Status](https://travis-ci.org/distillpub/template.svg?branch=master)](https://travis-ci.org/distillpub/template)
 
-This is the repository for the distill web framework. If you're interesting in just using the framework to write an article for the [Distill journal](http://distill.pub), visit http://distill.pub/guide/. 
+This is the repository for the distill web framework. If you're interested in just using the framework to write an article for the [Distill journal](http://distill.pub), visit http://distill.pub/guide/. 
 
 The general process for using this framework is to hotlink the compiled code in your dev environment. 
 
